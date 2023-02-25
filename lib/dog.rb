@@ -1,4 +1,4 @@
-require 'sqlite3'
+
 
 class Dog
   attr_accessor :name, :breed, :id
